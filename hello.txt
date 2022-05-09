@@ -4,8 +4,13 @@ hello git! hello atguigu!
 hello git! hello atguigu!
 hello git! hello atguigu!
 hello git! hello atguigu!
+<<<<<<< HEAD
 hello git! hello atguigu!
 hello git! hello atguigu!123456798
+=======
+hello git! hello atguigu!你是傻逼！
+hello git! hello atguigu!
+>>>>>>> hot-fix
 hello git! hello atguigu!
 hello git! hello atguigu!
 hello git! hello atguigu!
